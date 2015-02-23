@@ -112,7 +112,7 @@ $hasmobileapps = ($OUTPUT->get_setting('ios') ||
 
 $logoclass = 'ecol12';
 if ($hassocialnetworks || $hasmobileapps) {
-    $logoclass = 'ecol8';
+    $logoclass = 'ecol7';
 }
 
 $oldnavbar = $OUTPUT->get_setting('oldnavbar');
